@@ -290,7 +290,7 @@ body {
   height: 80px;
 }
 .times .times-line {
-  width: 190px;
+  width: 140px;
 }
 .times h4 {
   font-size: 30px;
@@ -607,6 +607,12 @@ body {
   }
   .benefits img {
     width: 480px;
+  }
+  .times .times-line {
+    width: 170px;
+  }
+  .times p {
+    margin: 5px;
   }
 }
 @media (min-width: 1400px) {
