@@ -284,12 +284,13 @@ body {
 	padding-top: 80px;
 	padding-bottom: 80px;
 	background-color: #ffcd04;
+	
 	img {
 		width: 80px;
 		height: 80px;
 	}
 	.times-line {
-		width: 190px;
+		width: 140px;
 	}
 	h4 {
 		font-size: 30px;
@@ -298,6 +299,7 @@ body {
 	p {
 		color: #1e232a;
 	}
+	
 	.times-first-p {
 		margin-top: 20px;
 	}
@@ -656,6 +658,14 @@ body {
 	.benefits {
 		img {
 			width: 480px;
+		}
+	}
+	.times {
+		.times-line{
+			width: 170px;
+		}
+		p{
+			margin: 5px;
 		}
 	}
 }
