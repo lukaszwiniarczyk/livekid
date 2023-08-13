@@ -1,2 +1,2 @@
-# Hi, this is my version of the website [LiveKid](https://livekid.com/pl/).
+# I practice coding with an example [LiveKid](https://livekid.com/pl/).
 I used HTML, SCSS, BOOTSTRAP and JS.
